@@ -1,0 +1,3 @@
+training_type,sessions,total_spend,effective_spend,wasted_spend,spend_to_leaver,invalid_records,effectiveness_pct,avg_cost
+External,1491,830215.65,407535.94,422679.71,431261.22,673,49.1,556.82
+Internal,1509,845670.44,439947.82,405722.62,426168.42,644,52.0,560.42

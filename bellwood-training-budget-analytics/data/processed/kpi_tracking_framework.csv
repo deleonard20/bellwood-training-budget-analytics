@@ -1,0 +1,8 @@
+kpi,tipe,definisi,baseline,satuan,target_6bulan,frekuensi,pemilik,rekomendasi_terkait
+Budget Integrity Rate,utama,Persen anggaran pada record dengan tanggal valid,56.1,%,95,Bulanan,HRIS,R1;R3
+Completion Rate (record valid),utama,Persen sesi valid berstatus Completed atau Passed,51.9,%,60,Bulanan,Head of L&D,R4
+Leakage Value,utama,Nilai anggaran pada record tanggal tidak valid,735145,USD,50000,Bulanan,CFO,R1
+Anggaran ke karyawan yang keluar,pendukung,Nilai anggaran pada karyawan yang keluar dalam 12 bulan,857430,USD,,Triwulanan,Head of L&D,R1
+Efektivitas program terendah,pendukung,Efektivitas anggaran program dengan performa terburuk,43.7,%,52,Triwulanan,Head of L&D,R4
+Kelengkapan field baru,pendukung,Persen sesi baru dengan instruktur relevansi dan beban kerja terisi,0,%,95,Bulanan,Head of L&D,R5
+Efektivitas anggaran keseluruhan,dipantau,Metrik lama - dilaporkan untuk perbandingan tidak dijadikan target,50.6,%,,Bulanan,Head of L&D,R2
